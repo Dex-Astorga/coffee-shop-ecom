@@ -1,0 +1,15 @@
+id,product_item_id,qty_in_stock,reorder_point,status
+1,1,100.00,20.00,In Stock
+2,2,100.00,20.00,In Stock
+3,3,100.00,20.00,In Stock
+4,4,100.00,20.00,In Stock
+5,5,100.00,20.00,In Stock
+6,6,100.00,20.00,In Stock
+7,7,100.00,20.00,In Stock
+8,8,100.00,20.00,In Stock
+9,9,100.00,20.00,In Stock
+10,10,100.00,20.00,In Stock
+11,11,100.00,20.00,In Stock
+12,12,100.00,20.00,In Stock
+13,13,100.00,20.00,In Stock
+14,14,100.00,20.00,In Stock

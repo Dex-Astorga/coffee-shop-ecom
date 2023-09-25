@@ -1,0 +1,15 @@
+id,product_id,sku,product_item_name,product_item_desc,product_image,price
+1,1,COF001,Espresso Shot,A shot of concentrated coffee,espresso1.jpg,2.99
+3,2,COF003,Iced Coffee,Refreshing iced coffee,iced_coffee1.jpg,3.49
+5,3,BRD001,Baguette,Crusty French bread,baguette1.jpg,2.99
+7,4,BRD003,Croissant,Flaky and buttery pastry,croissant1.jpg,1.99
+9,5,CAK001,Chocolate Cake Slice,Decadent chocolate cake slice,chocolate_cake_slice1.jpg,3.99
+11,6,PAS001,Spaghetti,Classic Italian pasta,spaghetti1.jpg,8.99
+13,7,PAS003,Macaroni and Cheese,Creamy macaroni and cheese,macaroni_cheese1.jpg,6.99
+2,1,COF002,Espresso Shot,A shot of concentrated coffee (Double Shot),espresso2.jpg,2.99
+4,2,COF004,Iced Coffee,Refreshing iced coffee (Chilled),iced_coffee2.jpg,3.49
+6,3,BRD002,Baguette,Crusty French bread (Baguette Classic),baguette2.jpg,2.99
+8,4,BRD004,Croissant,Flaky and buttery pastry (Butter Croissant),croissant2.jpg,1.99
+10,5,CAK002,Chocolate Cake Slice,Decadent chocolate cake slice (Chocolate Delight),chocolate_cake_slice2.jpg,3.99
+12,6,PAS002,Spaghetti,Classic Italian pasta (Traditional Spaghetti),spaghetti2.jpg,8.99
+14,7,PAS004,Macaroni and Cheese,Creamy macaroni and cheese (Cheesy Mac),macaroni_cheese2.jpg,6.99

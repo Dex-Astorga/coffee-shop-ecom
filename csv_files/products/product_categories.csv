@@ -1,0 +1,10 @@
+id,category,parent_category
+1,Coffee,
+2,Pastry,
+3,Pasta,
+4,Hot Coffee,1
+5,Cold Coffee,1
+6,Hard Breads,2
+7,Cakes,2
+8,Spaghetti,3
+9,Macaroni,3

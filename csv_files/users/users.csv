@@ -1,0 +1,11 @@
+id,first_name,last_name,email,phone_number,password_
+1,John,Doe,john.doe@example.com,123-456-7890,hashed_password_1
+2,Jane,Smith,jane.smith@example.com,987-654-3210,hashed_password_2
+3,Alice,Johnson,alice.johnson@example.com,555-123-4567,hashed_password_3
+4,Sarah,Wilson,sarah.wilson@example.com,111-222-3333,hashed_password_4
+5,Michael,Brown,michael.brown@example.com,444-555-6666,hashed_password_5
+6,Emily,Jones,emily.jones@example.com,777-888-9999,hashed_password_6
+7,David,Lee,david.lee@example.com,222-333-4444,hashed_password_7
+8,Olivia,Garcia,olivia.garcia@example.com,666-777-8888,hashed_password_8
+9,William,Martinez,william.martinez@example.com,555-666-7777,hashed_password_9
+10,Sophia,Hernandez,sophia.hernandez@example.com,333-444-5555,hashed_password_10

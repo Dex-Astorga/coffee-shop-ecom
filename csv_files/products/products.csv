@@ -1,0 +1,8 @@
+id,category_id,product_name,image_url
+1,4,Espresso,espresso.jpg
+2,5,Iced Coffee,iced_coffee.jpg
+3,6,Baguette,baguette.jpg
+4,6,Croissant,croissant.jpg
+5,7,Chocolate Cake,chocolate_cake.jpg
+6,8,Spaghetti,spaghetti.jpg
+7,9,Macaroni and Cheese,macaroni.jpg

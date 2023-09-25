@@ -1,0 +1,4 @@
+id,discount_type_id,discount_name,discount_desc,discount_rate,start_date_,end_date_
+1,1,Rainy Day Season Sale,Get 15% off on all products,0.15,2023-09-01,2023-09-30
+2,2,Summer Season Sale,Save $10 on your purchase,0.10,2023-06-15,2023-08-31
+3,3,Anniversary Discount,Celebrate with 25% off,0.25,2023-10-10,2023-10-15

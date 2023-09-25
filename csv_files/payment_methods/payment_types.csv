@@ -1,0 +1,6 @@
+id,payment_type
+1,Credit Card
+2,Debit Card
+3,PayPal
+4,Bank Transfer
+5,Cash On Delivery

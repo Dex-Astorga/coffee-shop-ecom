@@ -1,0 +1,7 @@
+id,order_status
+1,Order Placed
+2,Payment Confirmed
+3,Brewing Coffee
+4,Out for Delivery
+5,Order Completed
+6,Order Cancelled

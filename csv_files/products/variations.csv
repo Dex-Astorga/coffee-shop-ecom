@@ -1,0 +1,8 @@
+id,category_id,variation_type
+1,1,Size
+2,1,Flavor
+3,2,Type
+4,2,Glazing
+5,3,Type
+6,3,Sauce
+7,3,Cheese Type

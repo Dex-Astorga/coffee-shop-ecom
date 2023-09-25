@@ -1,0 +1,6 @@
+id,first_name,middle_name,last_name,email,contact_number,birthday,gender,address_id
+1,Carlos,Jos‚,Gonz lez,carlos.gonzalez@example.com,+1234567890,1990-05-15,Masculino,16
+2,Ana,Mar¡a,L¢pez,ana.lopez@example.com,+9876543210,1985-08-22,Femenino,17
+3,Javier,Luis,Mart¡nez,javier.martinez@example.com,+1112233445,1992-03-10,Masculino,18
+4,Elena,Isabel,Rodr¡guez,elena.rodriguez@example.com,+5556667777,1988-12-05,Femenino,19
+5,Miguel,Angel,S nchez,miguel.sanchez@example.com,+9998887777,1995-06-20,Masculino,20

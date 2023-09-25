@@ -1,0 +1,21 @@
+id,house_number,street_name,barangay,city,postal_code,region_id
+1,123,Main St,Anytown,Anytown City,12345,1
+2,456,Elm St,Another City,Another Cityville,54321,2
+3,789,Oak St,Nearby Town,Nearby City,67890,3
+4,111,Pine St,Downtown,Downtownville,11111,4
+5,222,Cedar St,Suburb,Suburbia,22222,5
+6,333,Maple St,Outskirts,Outskirtsville,33333,6
+7,444,Birch St,Countryside,Countryville,44444,7
+8,555,Willow St,Hills,Hillside,55555,8
+9,666,Spruce St,Village,Villageville,66666,9
+10,777,Redwood St,Island,Islandia,77777,10
+11,999,Oak Ave,New Village,New City,98765,3
+12,777,Cedar Ln,Suburban Area,Suburbia,77777,5
+13,555,Maple Rd,Rural Outskirts,Outskirtsville,55555,6
+14,333,Birch Dr,Country Living,Countryville,33333,7
+15,111,Willow Pkwy,Mountain View,Hillside,11111,8
+16,123,Main Street,Downtown,Cityville,12345,1
+17,456,Park Avenue,Greenfield,Suburbia,54321,2
+18,789,Oak Road,Hillside,Townsville,98765,3
+19,101,Cedar Lane,Beachside,Seaview,54321,4
+20,202,Maple Street,Riverside,River City,13579,5

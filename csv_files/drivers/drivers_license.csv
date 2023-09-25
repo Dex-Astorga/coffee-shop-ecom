@@ -1,0 +1,6 @@
+id,delivery_driver_id,license_number,license_expiration_date,license_category
+1,1,DL12345,2024-12-31,Class A
+2,2,DL67890,2023-10-15,Class B
+3,3,DL54321,2025-06-30,Class C
+4,4,DL98765,2024-09-22,Class A
+5,5,DL11111,2023-11-30,Class B
