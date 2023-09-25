@@ -30,5 +30,8 @@
 \copy (SELECT * FROM discount_offers_product_categories) TO 'C:\Users\Dexter\Documents\ENGINEER_DATABASE\coffee_shop_ecommerce\csv_files\discount_offers_product_categories.csv' DELIMITER ',' CSV HEADER;
 
 
+\copy (SELECT * FROM delivery_drivers) TO 'C:/Users/Dexter/Documents/ENGINEER_DATABASE/coffee_shop_ecommerce/csv_files/delivery_drivers.csv' WITH CSV HEADER;
+\copy (SELECT * FROM drivers_license) TO 'C:/Users/Dexter/Documents/ENGINEER_DATABASE/coffee_shop_ecommerce/csv_files/drivers_license.csv' WITH CSV HEADER;
+\copy (SELECT * FROM vehicle_information) TO 'C:/Users/Dexter/Documents/ENGINEER_DATABASE/coffee_shop_ecommerce/csv_files/vehicle_information.csv' WITH CSV HEADER;
 
 
