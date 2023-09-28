@@ -1,11 +1,11 @@
 # ONLINE STORE DATABASE DESIGN FOR COFFEE SHOPS
-This project is created as a reference to individuals who are looking for database design for an online store or ecommerce shop. It is best used to product that will be sold online with an accompanying application which needs to store user information, credit card information (optional), products, discounts and promotions, reviews, transactions, addresses, and driver information.
+This project is created as a reference to individuals who are looking for database design for an online store or ecommerce shop. It is best used to products that will be sold online with an accompanying application -- which needs to store user information, credit card information (optional), products, discounts and promotions, reviews, transactions, addresses, and driver information.
 
 <ul>
     <li> <bold>Organization:</bold> It is a great idea to have a systemized way of storing information into organized connected tables.</li>
     <li> <bold>Reporting and Analysis:</bold> With organized data, they can perform analytics and then extract meaningful insights.
     </li>
-    <li> <bold>Scalability:</bold> The design will still work if new products will be added to the menu.
+    <li> <bold>Scalability:</bold> The design will still work if new products are to be added to the menu.
     </li>
 </ul> 
 
@@ -23,7 +23,7 @@ This is project is useful to anyone who wants to build apps related to online st
 
 <ol>
     <li> <bold>Download the Project:</bold>  Visit the GitHub repository to access and download the project.</li>
-    <li> <bold>Install PostgreSQL:</bold> Ensure that you have PostgreSQL installed on your local machine. If not, you can download and install it from the official [PostgreSQL website](https://www.postgresql.org/download/). </li>
+    <li> <bold>Install PostgreSQL:</bold> Ensure that you have PostgreSQL installed on your local machine. If not, you can download and install it from the official PostgreSQL website </li>
     <li> <bold>Setup and Configuration:</bold> Once PostgreSQL is installed, configure the database connection settings as per your project needs. You can find the configuration files within the project. </li>
     <li> <bold>Customization:</bold> Modify the project to align with your project's specific requirements, such as products, payment methods, etc. </li>
     <li> <bold>Import Data:</bold> Import your shop data into the database. Custom scripts or data import tools can help streamline this process. There is a document guide and scripts in the project folder.</li>

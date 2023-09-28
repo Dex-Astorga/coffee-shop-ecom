@@ -33,6 +33,71 @@ SELECT * FROM products p
     FULL JOIN variation_values vv ON vv.variation_id = v.id
     FULL JOIN product_items_variation_values pivv ON pivv.product_item_id = pi_.id;
 
+-- 5. Fetch all of the product items with variation value of small
+SELECT pit.product_item_name AS item,
+       pit.SKU,
+       pit.price,
+       vv.variation_value
+       FROM product_items pit
+    JOIN product_items_variation_values pivv
+    ON pivv.product_item_id = pit.id
+    JOIN variation_values vv
+    ON vv.id = pivv.variation_value_id
+WHERE variation_value = 'Small';
+
+-- 6. Get all transaction of user with id 1
+SELECT u.id,
+       CONCAT(u.first_name, ' ', u.last_name),
+       ot.id
+       FROM users u
+    JOIN order_transactions ot
+    ON ot.user_id_ = u.id
+WHERE u.id = 1;
+
+-- 7. Get all the order items in of transaction from number 6
+SELECT u.id AS user_id_,
+       CONCAT(u.first_name, ' ', u.last_name),
+       ot.id AS transaction_id,
+       pit.product_item_name AS item,
+       pit.SKU,
+       pit.price
+       FROM users u
+    JOIN order_transactions ot
+    ON ot.user_id_ = u.id
+    JOIN trays t
+    ON t.id = ot.tray_id
+    JOIN tray_items ti
+    ON ti.tray_id = t.id
+    JOIN product_items pit
+    ON pit.id = ti.product_item_id
+WHERE u.id = 1;
+
+-- 8. Get all reviews with the word 'coffee' in them
+SELECT * FROM user_reviews WHERE comment iLIKE '%coffee%'; 
+
+-- 9. All reviews of rating below 4
+SELECT * FROM user_reviews WHERE rating_score < 4;
+
+-- 10. Get all promo names
+SELECT discount_name, start_date_, end_date_ FROM discount_offers;
+
+-- 11. Fetch the driver name, their licence numbers, and what vehicle they drive
+SELECT CONCAT(dd.first_name, ' ', dd.last_name),
+        dl.license_number,
+        CONCAT(vi.vehicle_make, ' - ', vi.vehicle_model)
+        FROM delivery_drivers dd
+    JOIN drivers_license dl
+    ON dl.delivery_driver_id = dd.id
+    JOIN vehicle_information vi
+    ON vi.delivery_driver_id = dd.id;
+
+
+
+
+
+
+
+
 
 
 
